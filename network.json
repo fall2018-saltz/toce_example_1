@@ -50,9 +50,6 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
-        },
-        {
             "name": "clean_data.csv"
         },
         {
@@ -61,8 +58,12 @@
         },
         {
             "name": "hist.png"
+        },
+        {
+            "desc": "",
+            "name": "clean.R"
         }
     ],
-    "updated_at": "2019-01-14 21:27:43",
+    "updated_at": "2019-01-14 21:27:57",
     "url": "https://github.com/fall2018-saltz/toce_example_1"
 }
