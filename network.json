@@ -22,7 +22,7 @@
                 }
             ],
             "source": "clean.R",
-            "target": "data.csv"
+            "target": "clean_data.csv"
         }
     ],
     "nodes": [
@@ -33,9 +33,9 @@
             "name": "clean.R"
         },
         {
-            "name": "data.csv"
+            "name": "clean_data.csv"
         }
     ],
-    "updated_at": "2019-01-14 21:25:44",
+    "updated_at": "2019-01-14 21:26:18",
     "url": "https://github.com/fall2018-saltz/toce_example_1"
 }
