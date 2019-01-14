@@ -33,6 +33,16 @@
             ],
             "source": "clean_data.csv",
             "target": "OzoneHist.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "gHist",
+                    "type": "png"
+                }
+            ],
+            "source": "OzoneHist.R",
+            "target": "hist.png"
         }
     ],
     "nodes": [
@@ -53,6 +63,6 @@
             "name": "hist.png"
         }
     ],
-    "updated_at": "2019-01-14 21:27:27",
+    "updated_at": "2019-01-14 21:27:43",
     "url": "https://github.com/fall2018-saltz/toce_example_1"
 }
