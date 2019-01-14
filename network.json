@@ -60,10 +60,12 @@
             "name": "hist.png"
         },
         {
+            "assigned_to": "jsaltz",
             "desc": "",
-            "name": "clean.R"
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2019-01-14 21:27:57",
+    "updated_at": "2019-01-14 21:28:02",
     "url": "https://github.com/fall2018-saltz/toce_example_1"
 }
